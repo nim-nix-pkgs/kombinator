@@ -10,7 +10,7 @@
   inputs.src-kombinator-1_3_0.flake = false;
   inputs.src-kombinator-1_3_0.ref   = "refs/tags/1.3.0";
   inputs.src-kombinator-1_3_0.owner = "EchoPouet";
-  inputs.src-kombinator-1_3_0.repo  = "kombinator.git";
+  inputs.src-kombinator-1_3_0.repo  = "kombinator";
   inputs.src-kombinator-1_3_0.type  = "gitlab";
   
   inputs."parsetoml".owner = "nim-nix-pkgs";
