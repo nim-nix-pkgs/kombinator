@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-kombinator-develop.flake = false;
+  inputs.src-kombinator-develop.ref   = "refs/heads/develop";
   inputs.src-kombinator-develop.owner = "EchoPouet";
-  inputs.src-kombinator-develop.ref   = "develop";
   inputs.src-kombinator-develop.repo  = "kombinator.git";
   inputs.src-kombinator-develop.type  = "gitlab";
   
