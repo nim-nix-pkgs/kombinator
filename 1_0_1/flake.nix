@@ -11,6 +11,7 @@
   inputs.src-kombinator-1_0_1.ref   = "refs/tags/1.0.1";
   inputs.src-kombinator-1_0_1.owner = "EchoPouet";
   inputs.src-kombinator-1_0_1.repo  = "kombinator";
+  inputs.src-kombinator-1_0_1.dir   = "";
   inputs.src-kombinator-1_0_1.type  = "gitlab";
   
   inputs."parsetoml".owner = "nim-nix-pkgs";
