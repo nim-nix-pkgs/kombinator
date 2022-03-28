@@ -11,7 +11,6 @@
   inputs.src-kombinator-develop.ref   = "refs/heads/develop";
   inputs.src-kombinator-develop.owner = "EchoPouet";
   inputs.src-kombinator-develop.repo  = "kombinator";
-  inputs.src-kombinator-develop.dir   = "";
   inputs.src-kombinator-develop.type  = "gitlab";
   
   inputs."parsetoml".owner = "nim-nix-pkgs";
