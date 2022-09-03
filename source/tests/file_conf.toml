@@ -1,0 +1,3 @@
+cmd = "echo 'hello'"
+cfg = {file = "$here/file_conf.cfg"}
+test = [[12, 85], [74, 96]]

@@ -1,0 +1,5 @@
+cmd = "ffmpeg -i $here/../ForBiggerFun.mp4 -s $heightx$width -c:v $codec -ab $audio_bitrate output-$audio_bitrate-$heightx$width-$codec.mp4"
+height = [640, 800]
+width = [480, 600]
+codec = ["libx264", "libxvid"]
+audio_bitrate = {min = 128, max = 192, step = 32}
